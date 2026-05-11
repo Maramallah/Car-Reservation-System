@@ -56,11 +56,7 @@ python app.py
 
 ## 🗄️ Database Schema
 
-```
-Office ──< Car ──< Reservation ──< Payment
-                       │
-               Customer ──────────┘
-```
+![Database Schema](schema.png)
 
 | Table | Description |
 |---|---|
